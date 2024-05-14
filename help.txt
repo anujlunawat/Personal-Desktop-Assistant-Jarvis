@@ -1,0 +1,27 @@
+Requirements
+-> "pip install -r requirements.txt"
+   Run the above code(without quotations) in cmd while the cmd is open in the same folder as the requirements.txt.
+   This will install all the required modules.
+
+-> In "sshhhh.txt" file:
+1. Enter your openAI API key as:
+	OPENAI_API_KEY = "your_api_key"
+(Get your API key at "https://platform.openai.com/api-keys")
+
+2. Enter your newsapi API key as:
+	NEWS_API_KEY = "your_api_key"
+(To get a newsapi API key, sign up/in at "https://newapi.org" and check "https://newsapi.org/account" for your API key)
+
+3. Enter your weatherapi API key as:
+	WEATHER_API_KEY = "your_api_key"
+(To get your weatherapi API key, sign up/in at "https://weatherapi.com" and check "https://www.weatherapi.com/my/" for you API account)
+
+4. Enter your email address as:
+    EMAIL_ADDRESS = "your_email_address"
+(This email address will be used to send emails)
+
+5. Enter your email app password as:
+    EMAIL_PASSWORD = "your_email_app_password"
+(You can get your email app password at https://myaccount.google.com/apppasswords)
+
+
