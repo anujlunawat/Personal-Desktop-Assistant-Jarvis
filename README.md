@@ -37,8 +37,3 @@ Jarvis is an AI assistant designed to perform various tasks such as web browsing
 
 1. Run `main.py` to start Jarvis.
 2. Say "Hey Jarvis" to activate voice commands, then issue commands like "Open Google", "Play music", or "Send an email".
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
